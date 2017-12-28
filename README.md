@@ -6,7 +6,7 @@ Review Analyzer
 
 ### Prerequisites
 
-Install Maven from https://maven.apache.org/install.html
+Install Maven from https://maven.apache.org/install.html  
 Download Reviews ZIP file from https://www.kaggle.com/snap/amazon-fine-food-reviews and extract it
 
 ### Installing
@@ -15,7 +15,7 @@ Download Reviews ZIP file from https://www.kaggle.com/snap/amazon-fine-food-revi
 git clone https://github.com/yair5124302/review-analyzer.git
 ```
 
-Copy Reviews.csv downloaded above into folder src/main/resources  
+Copy Reviews.csv downloaded above into folder src/main/resources
 Then run the following commands
 ```
 cd review-analyzer
