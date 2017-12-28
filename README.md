@@ -1,12 +1,10 @@
-# Project Title
-
-Review Analyzer
+# Review Analyzer
 
 ## Getting Started
 
 ### Prerequisites
 
-Install Maven from https://maven.apache.org/install.html  
+Install Maven from https://maven.apache.org/install.html
 Download Reviews ZIP file from https://www.kaggle.com/snap/amazon-fine-food-reviews and extract it
 
 ### Installing
